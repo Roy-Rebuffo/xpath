@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<libreria>
+   <libro isbn="ISBN-0-13-713526-2" precio="85" edicion="3ª">
+      <titulo>Primer Curso de Sistemas de Bases de Datos</titulo>
+      <autores>
+         <autor>
+            <nombre>Jeffrey</nombre>
+            <apellidos>Ullman</apellidos>
+         </autor>
+         <autor>
+            <nombre>Jennifer</nombre>
+            <apellidos>Widom</apellidos>
+         </autor>
+      </autores>
+   </libro>
+   <libro isbn="ISBN-0-13-815504-6" precio="100">
+      <titulo>Sistemas de Bases de Datos: El Libro Completo</titulo>
+      <autores>
+         <autor>
+            <nombre>Hector</nombre>
+            <apellidos>Garcia-Molina</apellidos>
+         </autor>
+         <autor>
+            <nombre>Jeffrey</nombre>
+            <apellidos>Ullman</apellidos>
+         </autor>
+         <autor>
+            <nombre>Jennifer</nombre>
+            <apellidos>Widom</apellidos>
+         </autor>
+      </autores>
+      <observacion>Compra este libro junto con "Primer Curso" - ¡una gran oferta!</observacion>
+   </libro>
+   <libro isbn="ISBN-0-11-222222-3" precio="50">
+      <titulo>Pistas de Bases de Datos de Hector y Jeff</titulo>
+      <autores>
+         <autor>
+            <nombre>Jeffrey</nombre>
+            <apellidos>Ullman</apellidos>
+         </autor>
+         <autor>
+            <nombre>Hector</nombre>
+            <apellidos>Garcia-Molina</apellidos>
+         </autor>
+      </autores>
+      <observacion>Un complemento indispensable para tu manual</observacion>
+   </libro>
+   <libro isbn="ISBN-9-88-777777-6" precio="25">
+      <titulo>Pistas Económicas de Jennifer</titulo>
+      <autores>
+         <autor>
+            <nombre>Jennifer</nombre>
+            <apellidos>Widom</apellidos>
+         </autor>
+      </autores>
+   </libro>
+   <revista mes="Enero" año="2009">
+       <titulo>National Geographic</titulo>
+   </revista>
+   <revista mes="Febrero" año="2009">
+       <titulo>National Geographic</titulo>
+   </revista>
+   <revista mes="Febrero" año="2009">
+       <titulo>Newsweek</titulo>
+   </revista>
+   <revista mes="Marzo" año="2009">
+       <titulo>Pistas de Bases de Datos de Hector y Jeff</titulo>
+   </revista>
+</libreria>
